@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.147d80d2.chunk.css",
+    "main.js": "/static/js/main.5075f500.chunk.js",
+    "main.js.map": "/static/js/main.5075f500.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4f34c0f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4f34c0f2.js.map",
+    "static/css/2.8887c2d4.chunk.css": "/static/css/2.8887c2d4.chunk.css",
+    "static/js/2.357ef5dc.chunk.js": "/static/js/2.357ef5dc.chunk.js",
+    "static/js/2.357ef5dc.chunk.js.map": "/static/js/2.357ef5dc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8887c2d4.chunk.css.map": "/static/css/2.8887c2d4.chunk.css.map",
+    "static/css/main.147d80d2.chunk.css.map": "/static/css/main.147d80d2.chunk.css.map",
+    "static/js/2.357ef5dc.chunk.js.LICENSE.txt": "/static/js/2.357ef5dc.chunk.js.LICENSE.txt",
+    "static/media/CW-2.efee2e66.jpg": "/static/media/CW-2.efee2e66.jpg",
+    "static/media/style.css": "/static/media/main-picc.fc634849.jpg",
+    "static/media/bitbucket-brands.43f742c5.svg": "/static/media/bitbucket-brands.43f742c5.svg",
+    "static/media/drafting-compass-solid.a5e5524a.svg": "/static/media/drafting-compass-solid.a5e5524a.svg",
+    "static/media/facebook-brands.5d269bd7.svg": "/static/media/facebook-brands.5d269bd7.svg",
+    "static/media/form-desktop.0e8dc46e.jpg": "/static/media/form-desktop.0e8dc46e.jpg",
+    "static/media/free-code-camp-brands.497b06c4.svg": "/static/media/free-code-camp-brands.497b06c4.svg",
+    "static/media/img-1.fa0bafdf.jpg": "/static/media/img-1.fa0bafdf.jpg",
+    "static/media/img-2.bdc3ee82.jpg": "/static/media/img-2.bdc3ee82.jpg",
+    "static/media/img-3.22933789.jpg": "/static/media/img-3.22933789.jpg",
+    "static/media/indipixel.b98aabb5.jpg": "/static/media/indipixel.b98aabb5.jpg",
+    "static/media/instagram-square-brands.da974473.svg": "/static/media/instagram-square-brands.da974473.svg",
+    "static/media/linkedin-brands.d7833fba.svg": "/static/media/linkedin-brands.d7833fba.svg",
+    "static/media/logo.f5c5ff16.svg": "/static/media/logo.f5c5ff16.svg",
+    "static/media/Temor.css": "/static/media/main-pic.89bf19c7.jpg",
+    "static/media/FormPage.css": "/static/media/main-pic.b49aae9f.jpg",
+    "static/media/tachometer-alt-solid.aa27d487.svg": "/static/media/tachometer-alt-solid.aa27d487.svg",
+    "static/media/twitter-brands.7e1d72c3.svg": "/static/media/twitter-brands.7e1d72c3.svg",
+    "static/media/whatsapp-brands.47404385.svg": "/static/media/whatsapp-brands.47404385.svg",
+    "static/media/window-restore-solid.51d90c95.svg": "/static/media/window-restore-solid.51d90c95.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f34c0f2.js",
+    "static/css/2.8887c2d4.chunk.css",
+    "static/js/2.357ef5dc.chunk.js",
+    "static/css/main.147d80d2.chunk.css",
+    "static/js/main.5075f500.chunk.js"
+  ]
+}
